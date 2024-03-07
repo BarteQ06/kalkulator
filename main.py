@@ -19,3 +19,4 @@ def wykonaj_operacje():
     print(f"Wynik {x} {operator} {y} = {wynik}")
 
 wykonaj_operacje()
+print("Koniec programu")
